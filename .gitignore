@@ -13,3 +13,4 @@ yarn-error.log
 .idea
 .editorconfig
 .styleci.yml
+composer.lock
